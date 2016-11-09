@@ -1,0 +1,11 @@
+{
+  "name": "hougasian_com",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-php-connet": "0.0.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-serve": "^1.4.0",
+    "opn": "^4.0.2"
+  }
+}
